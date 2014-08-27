@@ -2,6 +2,12 @@
 
 This is a base app on Middleman using the following:
 
+## How to install!
+
+You'll need to get all the gems up and running by cloning this application and then run bundle. This will download all the gems listed in `Gemfile`.
+
+Once done, run middleman inside the root and the rest should be self explanatory.
+
 ## Done!
 
 * HAML (marking up nicely)
